@@ -1,0 +1,8 @@
+{
+  "name": "Weather",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "95fe76ad"
+}
